@@ -1,4 +1,4 @@
-#Story
+# Story
 
 ## characters
 1. Me
